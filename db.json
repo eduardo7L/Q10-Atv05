@@ -3,7 +3,8 @@
     { "id": "1", "nome": "João" },
     { "id": "2", "nome": "Maria" }
   ],
-  "profile": {
-	"id": "1", "name": "typecode"
-  }
+  "profile": [
+    { "id": "1", "name": "typecode" },
+    { "id": "2", "name": "typecode2" }
+  ]
 }
