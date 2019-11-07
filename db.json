@@ -1,15 +1,15 @@
 {
-&quot;cliente&quot;: [
+"cliente": [
 {
-&quot;id&quot;: 1,
-&quot;nome&quot;: &quot;Joao&quot;
+"id": 1,
+"nome": "Joao"
 },
 {
-&quot;id&quot;: 2,
-&quot;nome&quot;: &quot;Maria&quot;
+"id": 2,
+"nome": "Maria"
 },
 ],
-&quot;profile&quot;: {
-&quot;name&quot;: &quot;typicode&quot;
+"profile": {
+"name": "typicode"
 }
 }
