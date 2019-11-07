@@ -3,11 +3,7 @@
     { "id": "1", "nome": "João" },
     { "id": "2", "nome": "Maria" }
   ],
-  "profileList": [
-    { "id": "1", "name": "typicode 1" },
-    { "id": "2", "name": "typicode 2" }
-  ],
   "profile": {
-    "name": "typicode"
-  } 
+	"name": "typecode"
+  }
 }
