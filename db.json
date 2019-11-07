@@ -1,0 +1,15 @@
+{
+&quot;cliente&quot;: [
+{
+&quot;id&quot;: 1,
+&quot;nome&quot;: &quot;Joao&quot;
+},
+{
+&quot;id&quot;: 2,
+&quot;nome&quot;: &quot;Maria&quot;
+},
+],
+&quot;profile&quot;: {
+&quot;name&quot;: &quot;typicode&quot;
+}
+}
