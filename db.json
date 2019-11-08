@@ -1,7 +1,7 @@
 {
   "cliente": [
-    { "id": "1", "nome": "João" },
-    { "id": "2", "nome": "Maria" }
+    { "id": "1", "nome": "João", "tel": "(31) 98765-4321", "end": "Rua Xpto, Nº 123" },
+    { "id": "2", "nome": "Maria",  "tel": "(31) 94321-8765", "end": "Rua Loren Ipsum, Nº 321" }
   ],
   "profile": [
     { "id": "1", "name": "typicode 1" },
